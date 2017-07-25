@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Contact List App with MEAN Stack
 
-You can use the [editor on GitHub](https://github.com/tbvsatish/MEAN-ContactList/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+MEAN is an Acronym which is the latest stack popular for web development. Following is a brief introduction about the components of the Mean stack.
+* M - Mongo db. This is the database component which is used for saving data of the web application.
+* E - Express. This is a framework used as a bridge between Client and Server.
+* A - Angular. This is the client side component used for developing UI for the application.
+* N - Node.js. This is a webserver which supports asynchronous operations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The main reason for huge popularity of this development stack is that all the components in this stack are open-source.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tbvsatish/MEAN-ContactList/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
